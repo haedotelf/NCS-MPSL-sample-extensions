@@ -6,6 +6,9 @@
 
 /*
 MODIFIED SAMPLE TO INCLUDE EXTENSIONS ++
+Beware that this code/configuration is not fully tested or qualified and should be considered provided "as-is". 
+Please test this with your application and let me know if you find any issues.
+
 */
 
 #include <zephyr/kernel.h>
